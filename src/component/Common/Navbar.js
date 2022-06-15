@@ -20,7 +20,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div class="navbar-end">
-                <div className="btn bg-orange-000 hover:bg-orange-700">Join Now</div>
+                <div className="btn border-orange-400 bg-orange-000 hover:bg-orange-700">Join Now</div>
             </div>
         </div>
     );
